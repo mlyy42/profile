@@ -1,0 +1,36 @@
+body{
+    background-image: url("./backleo.png");
+    background-size: cover;
+}
+
+.circle{
+    margin: 0 auto;
+    margin-top: 10%;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-image: url("./testleo.png");
+    border: 2px solid orange;
+}
+
+.name{
+    margin: auto;
+    margin-top: 1%;
+    width: 150px;
+    height: 25px;
+    background-color: pink;
+    border: 1px solid black;
+    text-align: center;
+    font-weight: bold;
+}
+
+.bg{
+    margin: 0 auto;
+    margin-top: 5%;
+    height: 1000px;
+    width: auto;
+    border: 1px solid black;
+    background: linear-gradient(180deg, skyblue 85%, #fff 10%);
+    max-width: 500px;
+    opacity: 0.9;
+}
